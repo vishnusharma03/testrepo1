@@ -1,0 +1,4 @@
+Hii there,
+I just learnt how to change directory location from git bash.
+But still don't know how to get out of this thing.
+Btw it's fun.
